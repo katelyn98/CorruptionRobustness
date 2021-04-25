@@ -23,10 +23,10 @@ View our [Google Colab](https://colab.research.google.com/drive/1gu8XQjtA4lLEF69
 | SIN (_ResNet50_) | Stylized-ImageNet | 26M | 76.52 % |
 | SIN+IN (_ResNet50_) | Stylized-ImageNet & ImageNet | 26M | 38.70 % |
 | ViT_B_16 | ImageNet21K + ImageNet1K | 87M | 41.49 % |
-| deit_base_patch16 | ImageNet | 87M | 42.32 % |
-| deit_tiny_patch16_224 | ImageNet | 5M | 29.37 % |
-| deit_tiny_distilled_patch16_224 | ImageNet | 6M | 31.06 % |
-| deit_small_patch16_224| ImageNet | 22M | 38.26 % |
+| DeiT-base | ImageNet | 87M | 42.32 % |
+| DeiT-tiny | ImageNet | 5M | 29.37 % |
+| DeiT-tiny distilled | ImageNet | 6M | 31.06 % |
+| DeiT-small | ImageNet | 22M | 38.26 % |
 
 ## Analysis
 
