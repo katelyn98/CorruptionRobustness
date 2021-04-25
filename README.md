@@ -27,5 +27,4 @@ View our [Google Colab](https://colab.research.google.com/drive/1gu8XQjtA4lLEF69
 | deit_tiny_patch16_224 | ImageNet | 5M | 29.37 % |
 | deit_tiny_distilled_patch16_224 | ImageNet | 6M | 31.06 % |
 | deit_small_patch16_224| ImageNet | 22M | 38.26 % |
-|
 
