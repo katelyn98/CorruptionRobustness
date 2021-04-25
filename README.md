@@ -1,5 +1,5 @@
 # CorruptionRobustness
-For [CS1678](https://people.cs.pitt.edu/~kovashka/cs1678_sp21/), my group investigated corruption robustness across different Convolutional Neural Networks and Vision Transformer architectures. 
+For [CS1678](https://people.cs.pitt.edu/~kovashka/cs1678_sp21/), my group explored corruption robustness across different Convolutional Neural Network and Vision Transformer architectures. 
 
 ## Corruption Robustness Baselines
 
