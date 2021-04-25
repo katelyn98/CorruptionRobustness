@@ -10,8 +10,8 @@ View our [Google Colab]() to reproduce our experiments.
 | ResNet50 | ImageNet | Subset of ImageNet-C | 19.63 % |
 | SIN (_ResNet50_) | Stylized-ImageNet | Subset of ImageNet-C | 32.31 % |
 | ViT_B_16 | ImageNet21K + ImageNet1K | Subset of ImageNet-C | 33.88 % |
-| DeiT_base_patch16 | ImageNet | 47.44 % |
-| Swin_tiny_patch4_window7 | ImageNet | 37.25 % |
+| DeiT_base_patch16 | ImageNet | Subset of ImageNet-C | 47.44 % |
+| Swin_tiny_patch4_window7 | ImageNet | Subset of ImageNet-C | 37.25 % |
 
 ## Shape Bias
 
