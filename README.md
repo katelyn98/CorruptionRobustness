@@ -28,3 +28,6 @@ View our [Google Colab](https://colab.research.google.com/drive/1gu8XQjtA4lLEF69
 | deit_tiny_distilled_patch16_224 | ImageNet | 6M | 31.06 % |
 | deit_small_patch16_224| ImageNet | 22M | 38.26 % |
 
+## Analysis
+
+There are two key results to point out from these xperiments. First, take note how all of the vision transformer architectures perform better on a subset of ImageNet-C than a vanilla ResNet50 and a ResNet50 trained on Stylized-ImageNet. From this, we decided to see how much shape bias vision transformers have compared to a vanilla ResNet50. Notice how a the DeiT tiny vision transformer achieves a higher shape bias than a vanilla ResNet50, and the ResNet50 has 5 times as many parameters at the DeiT tiny model. 
