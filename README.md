@@ -5,7 +5,7 @@ For [CS1678](https://people.cs.pitt.edu/~kovashka/cs1678_sp21/), my group explor
 
 View this [Google Colab](https://colab.research.google.com/drive/1I_uV1it2JMGAhDgkdQhlY7y0vKLtW-u3#scrollTo=8I_mGA0TW6aT) to reproduce our experiments.
 
-| Model | Top-1 | # params |
+| Model | mCE(_sev2_) | mCE(_sev5_) |
 | :---: |:-----------------: | :---: |
 | ResNet50 | 19.63 % | M|
 | SIN (_ResNet50_) | 32.31 % |  M|
