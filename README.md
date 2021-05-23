@@ -3,7 +3,7 @@ For [CS1678](https://people.cs.pitt.edu/~kovashka/cs1678_sp21/), my group explor
 
 ## Corruption Robustness Baselines
 
-View our [Google Colab](https://colab.research.google.com/drive/1I_uV1it2JMGAhDgkdQhlY7y0vKLtW-u3#scrollTo=8I_mGA0TW6aT) to reproduce our experiments.
+View this [Google Colab](https://colab.research.google.com/drive/1I_uV1it2JMGAhDgkdQhlY7y0vKLtW-u3#scrollTo=8I_mGA0TW6aT) to reproduce our experiments.
 
 | Model | Top-1 | # params |
 | :---: |:-----------------: | :---: |
@@ -15,7 +15,7 @@ View our [Google Colab](https://colab.research.google.com/drive/1I_uV1it2JMGAhDg
  
 ## Shape Bias
 
-View our [Google Colab](https://colab.research.google.com/drive/1gu8XQjtA4lLEF69bT226_eO_67_nIGTu?usp=sharing) to reproduce our experiments. 
+View this [Google Colab](https://colab.research.google.com/drive/1gu8XQjtA4lLEF69bT226_eO_67_nIGTu?usp=sharing) to reproduce our experiments. 
 
 | Model | Shape Bias | # params |
 |:---:  | :---: | :----: |
