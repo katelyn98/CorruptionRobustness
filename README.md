@@ -3,30 +3,30 @@ For [CS1678](https://people.cs.pitt.edu/~kovashka/cs1678_sp21/), my group explor
 
 ## Corruption Robustness Baselines
 
-View our [Google Colab]() to reproduce our experiments.
+View our [Google Colab](https://colab.research.google.com/drive/1I_uV1it2JMGAhDgkdQhlY7y0vKLtW-u3#scrollTo=8I_mGA0TW6aT) to reproduce our experiments.
 
-| Model | Pretrained on ? | Evaluation Data Set | Top-1 | 
-| :---: | :-----------------: | :-----------------: | :---: |
-| ResNet50 | ImageNet | Subset of ImageNet-C | 19.63 % |
-| SIN (_ResNet50_) | Stylized-ImageNet | Subset of ImageNet-C | 32.31 % |
-| ViT_B_16 | ImageNet21K + ImageNet1K | Subset of ImageNet-C | 33.88 % |
-| DeiT-base | ImageNet | Subset of ImageNet-C | 47.44 % |
-| swin_tiny_patch4_window7 | ImageNet | Subset of ImageNet-C | 37.25 % |
-
+| Model | Top-1 | # params |
+| :---: |:-----------------: | :---: |
+| ResNet50 | 19.63 % | M|
+| SIN (_ResNet50_) | 32.31 % |  M|
+| ViT_B_16 | 33.88 % | M|
+| DeiT-base | 47.44 % |  M|
+| swin_tiny_patch4_window7 | 37.25 % |  M|
+ 
 ## Shape Bias
 
 View our [Google Colab](https://colab.research.google.com/drive/1gu8XQjtA4lLEF69bT226_eO_67_nIGTu?usp=sharing) to reproduce our experiments. 
 
-| Model | Pretrained on ? | # params | Shape Bias |
-|:---:  | :---: | :---: | :----: |
-| ResNet50 | ImageNet | 26M | 26.17 % |
-| SIN (_ResNet50_) | Stylized-ImageNet | 26M | 76.52 % |
-| SIN+IN (_ResNet50_) | Stylized-ImageNet & ImageNet | 26M | 38.70 % |
-| ViT_B_16 | ImageNet21K + ImageNet1K | 87M | 41.49 % |
-| DeiT-base | ImageNet | 87M | 42.32 % |
-| DeiT-tiny | ImageNet | 5M | 29.37 % |
-| DeiT-tiny distilled | ImageNet | 6M | 31.06 % |
-| DeiT-small | ImageNet | 22M | 38.26 % |
+| Model | Shape Bias | # params |
+|:---:  | :---: | :----: |
+| ResNet50 |  26.17 % | 26M |
+| SIN (_ResNet50_)  76.52 % |  26M |
+| SIN+IN (_ResNet50_) |38.70 % | 26M | 
+| ViT_B_16 | 41.49 % | 87M |
+| DeiT-base | 42.32 % |87M | 
+| DeiT-tiny | 29.37 % |5M | 
+| DeiT-tiny distilled | 31.06 % |6M | 
+| DeiT-small |38.26 % | 22M | 
 
 ## Analysis
 
