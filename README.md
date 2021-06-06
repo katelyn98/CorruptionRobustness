@@ -8,10 +8,9 @@ We explored corruption robustness across different Convolutional Neural Networks
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1I_uV1it2JMGAhDgkdQhlY7y0vKLtW-u3?usp=sharing)
 
-| Model | mCE(_Sev 2_) | mCE(_Sev 5_) |
+| Model | top-1(%) | mCE (%) |
 | :---: |:-----------------: | :---: |
 | ResNet50 | 19.63 % | M|
-| SIN (_ResNet50_) | 32.31 % |  M|
 | ViT_B_16 | 33.88 % | M|
 | DeiT-base | 47.44 % |  M|
 | swin_tiny_patch4_window7 | 37.25 % |  M|
