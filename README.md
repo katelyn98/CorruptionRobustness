@@ -6,7 +6,7 @@ We explored corruption robustness across different Convolutional Neural Networks
 
 ## Corruption Robustness Baselines
 
-View this [Google Colab](https://colab.research.google.com/drive/1I_uV1it2JMGAhDgkdQhlY7y0vKLtW-u3#scrollTo=8I_mGA0TW6aT) to reproduce our experiments.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1I_uV1it2JMGAhDgkdQhlY7y0vKLtW-u3?usp=sharing)
 
 | Model | mCE(_Sev 2_) | mCE(_Sev 5_) |
 | :---: |:-----------------: | :---: |
@@ -18,7 +18,7 @@ View this [Google Colab](https://colab.research.google.com/drive/1I_uV1it2JMGAhD
  
 ## Shape Bias
 
-View this [Google Colab](https://colab.research.google.com/drive/1gu8XQjtA4lLEF69bT226_eO_67_nIGTu?usp=sharing) to reproduce our experiments. 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gu8XQjtA4lLEF69bT226_eO_67_nIGTu?usp=sharing)
 
 | Model | Shape Bias | # params |
 |:---:  | :---: | :----: |
