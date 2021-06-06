@@ -1,4 +1,5 @@
 # CorruptionRobustness
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/katelyn98/CorruptionRobustness/blob/master/EvaluatingCorruptionsImageNetC.ipynb)
 
 We explored corruption robustness across different Convolutional Neural Networks, Vision Transformer architectures, and the MLP-Mixer. 
