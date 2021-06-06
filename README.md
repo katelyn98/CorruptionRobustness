@@ -1,5 +1,5 @@
 # CorruptionRobustness
-For [CS1678](https://people.cs.pitt.edu/~kovashka/cs1678_sp21/), my group explored corruption robustness across different Convolutional Neural Network and Vision Transformer architectures. 
+We explored corruption robustness across different Convolutional Neural Networks, Vision Transformer architectures, and the MLP-Mixer. 
 
 ## Corruption Robustness Baselines
 
@@ -30,4 +30,4 @@ View this [Google Colab](https://colab.research.google.com/drive/1gu8XQjtA4lLEF6
 
 ## Analysis
 
-There are two key results to point out from these experiments. First, take note how all of the vision transformer architectures perform better on a subset of ImageNet-C than a vanilla ResNet50 and a ResNet50 trained on Stylized-ImageNet. From this, we decided to see how much shape bias vision transformers have compared to a vanilla ResNet50. Notice how a the DeiT tiny vision transformer achieves a higher shape bias than a vanilla ResNet50, and yet ResNet50 has 5 times as many parameters at the DeiT tiny model. 
+Notice how a the DeiT tiny vision transformer achieves a higher shape bias than a vanilla ResNet50, and yet ResNet50 has 5 times as many parameters at the DeiT tiny model. 
