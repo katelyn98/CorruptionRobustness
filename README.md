@@ -9,7 +9,7 @@ We explored corruption robustness across different Convolutional Neural Networks
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1I_uV1it2JMGAhDgkdQhlY7y0vKLtW-u3?usp=sharing)
 
 | Model | top-1 (%) | mCE (%) |
-| :---: |:------_: | :---: |
+| :---: |:-------: | :---: |
 | ResNet50 | % | 26M |
 | AlexNet | % | M |
 | VGG16 | % | M |
