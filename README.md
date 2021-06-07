@@ -58,7 +58,6 @@ We explored corruption robustness across different Convolutional Neural Networks
 | Swin-T_large | % | M |
 | Swin-T_tiny | % | M |
 
-
 ## Analysis
 
-Notice how a the DeiT tiny vision transformer achieves a higher shape bias than a vanilla ResNet50, and yet ResNet50 has 5 times as many parameters at the DeiT tiny model. 
+_Coming soon - view this colab for the analyses in our appendix!_
