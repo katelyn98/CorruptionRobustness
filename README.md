@@ -2,6 +2,12 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13KkwC0Rm469PHI7U429JLeAflWLpirvV?usp=sharing)
 
+## Paper
+
+This work has been submitted to the Uncertainty & Robustness in Deep Learning workshop at ICML 2021. It is currently under review. You can view our current draft [here](https://www.overleaf.com/read/nzxgpdqmhskn). The paper will be soon published on arXiv. Stay tuned to find out if our paper has been accepted to the UDL @ ICML 2021 workshop!
+
+### Summary
+
 We explored corruption robustness across different Convolutional Neural Networks, Vision Transformer architectures, and the MLP-Mixer. 
 
 ## Corruption Robustness Baselines
@@ -60,4 +66,4 @@ We explored corruption robustness across different Convolutional Neural Networks
 
 ## Analysis
 
-_Coming soon - view this colab for the analyses in our appendix!_
+_Coming soon - view [this](https://www.overleaf.com/read/zwjpykbxhyxs) OverLeaf to view our appendix!_
