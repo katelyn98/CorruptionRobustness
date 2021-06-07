@@ -8,7 +8,7 @@ We explored corruption robustness across different Convolutional Neural Networks
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1I_uV1it2JMGAhDgkdQhlY7y0vKLtW-u3?usp=sharing)
 
-| Model | top-1 (%) | mCE (%) |
+<!-- | Model | top-1 (%) | mCE (%) |
 | :---: |:-------: | :---: |
 | ResNet50 | % | 26M |
 | AlexNet | % | M |
@@ -29,13 +29,13 @@ We explored corruption robustness across different Convolutional Neural Networks
 | Swin-T_base | % | M |
 | Swin-T_small | % | M |
 | Swin-T_large | % | M |
-| Swin-T_tiny | % | M |
+| Swin-T_tiny | % | M | -->
  
 ## Shape Bias
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gu8XQjtA4lLEF69bT226_eO_67_nIGTu?usp=sharing)
 
-| Model | Shape Bias (%) | # params (M) |
+<!-- | Model | Shape Bias (%) | # params (M) |
 |:---:  | :---: | :----: |
 | ResNet50 |  26.17 % | 26M |
 | AlexNet | % | M |
@@ -56,7 +56,7 @@ We explored corruption robustness across different Convolutional Neural Networks
 | Swin-T_base | % | M |
 | Swin-T_small | % | M |
 | Swin-T_large | % | M |
-| Swin-T_tiny | % | M |
+| Swin-T_tiny | % | M | -->
 
 ## Analysis
 
