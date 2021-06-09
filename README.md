@@ -10,7 +10,7 @@ This work **has been submitted to the Uncertainty & Robustness in Deep Learning 
 
 We explored corruption robustness across different Convolutional Neural Networks, Vision Transformer architectures, and the MLP-Mixer. 
 
-## Corruption Robustness Baselines
+## Corruption Robustness
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1I_uV1it2JMGAhDgkdQhlY7y0vKLtW-u3?usp=sharing)
 
