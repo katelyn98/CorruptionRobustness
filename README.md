@@ -66,4 +66,4 @@ We explored corruption robustness across different Convolutional Neural Networks
 
 ## Analysis
 
-_Coming soon - view [this](https://www.overleaf.com/read/zwjpykbxhyxs) OverLeaf to view our appendix!_
+_Coming soon - view appendix in the meantime!_
