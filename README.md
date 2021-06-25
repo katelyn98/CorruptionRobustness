@@ -4,7 +4,7 @@
 
 ## Paper
 
-This work **has been submitted to the Uncertainty & Robustness in Deep Learning workshop at ICML 2021**. It is currently under review. You can view our current draft [here](https://www.overleaf.com/read/nzxgpdqmhskn). The paper will be soon published on arXiv. Stay tuned to find out if our paper has been accepted to the UDL @ ICML 2021 workshop!
+This work **has been submitted to the Uncertainty & Robustness in Deep Learning workshop at ICML 2021**. It is currently under review. You can view our current arXiv paper [here](https://arxiv.org/abs/2106.13122). The paper will be soon published on arXiv. Stay tuned to find out if our paper has been accepted to the UDL @ ICML 2021 workshop!
 
 ### Summary
 
