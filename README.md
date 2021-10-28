@@ -4,7 +4,7 @@
 
 ## Paper
 
-This work **has been submitted to the Uncertainty & Robustness in Deep Learning workshop at ICML 2021**. It is currently under review. You can view our current arXiv paper [here](https://arxiv.org/abs/2106.13122). Stay tuned to find out if our paper has been accepted to the UDL @ ICML 2021 workshop!
+This work **presented at the Uncertainty & Robustness in Deep Learning workshop at ICML 2021**. You can view our current arXiv paper [here](https://arxiv.org/abs/2106.13122). Note: some of the normalization techniques we used we later found out were not appropriate for certain models. However, originally, normalziation for all models was the same values (imagenet normalization). This is a workshop paper and is preliminary work done by all undergraduates. We appreciate the kind feedback.
 
 ### Summary
 
